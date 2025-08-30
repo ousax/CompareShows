@@ -7,11 +7,15 @@ using some well known libraries such as numpy, pandas, matplotlib
 ![image alt](https://github.com/ousax/CompareShows/blob/238474ff37e864db4cfa3128f12ed1729415ee62/f.png)
 # Results Vikings vs Game Of Thrones (CLI) #
 ![image alt](https://github.com/ousax/CompareShows/blob/7369b88507d3644b3d385a2b4b9a8096a224ca5b/ff.png)
+# Results Dexter (CLI) #
+![image alt](https://github.com/ousax/CompareShows/blob/532e425bb478a6a9931679e3c3fe347c47b3671d/dexter.png)
+# Results Dexter (VIZ, PLOT)
+![image alt](https://github.com/ousax/CompareShows/blob/684f9e1a706fa0528741bc883412f898b9f04339/dexter%20plot.png)
 
 ### _Install on Linux_
 - git clone https://github.com/ousax/CompareShows.git
 - CompareShows
-- pip2 isntall -r requirements
+- pip3 install -r requirements
 - chmod +x shows_comp.py
 - python3 shows_comp.py
 ## Requirements 
