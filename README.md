@@ -1,7 +1,7 @@
 # CompareShows
 ## comparing movies, tv serie ## 
 Simple tool to scrap information from IMDB about a tv serie, movie or even to compare between 2 shows, analyse, calculate and visualize the collected information, data 
-using libraries such numpy, pandas, matplotlib
+using libraries such as numpy, pandas, matplotlib
 # Results SnowFall vs BreakingBad #
 ![image alt](https://github.com/ousax/CompareShows/blob/238474ff37e864db4cfa3128f12ed1729415ee62/f.png)
 # Results Vikings vs Game Of Thrones (CLI) #
