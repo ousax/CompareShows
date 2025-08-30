@@ -47,3 +47,5 @@ _Visualized_
 | `--output`         |       | `str` (file path) | No    | Save results to a JSON file                                                 |
 | `--compare`        |       | `tuple(str, str)` | No    | Compare two shows by name (`SHOW1` and `SHOW2`)                             |
 
+# Usage #
+python3 shows_comp.py -n "Dexter"
