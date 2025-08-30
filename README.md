@@ -49,3 +49,4 @@ _Visualized_
 
 # Usage #
 python3 shows_comp.py -n "Dexter"
+pyton3 shows_conp.py -n "the punisher" -t tv --progress --top-rated --top-limit 2 --save --output punisher.json                                       
