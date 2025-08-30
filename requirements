@@ -1,0 +1,7 @@
+requests
+bs4 
+termcolor
+numpy
+matplotlib
+matplotlib_venn 
+tqdm
