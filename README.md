@@ -23,7 +23,6 @@ using some well known libraries such as numpy, pandas, matplotlib
 6. pandas
 7. matplotlib
 8. matplotlib_venn
-9. 
 # Usage Options
 ### Command-Line Arguments
 
