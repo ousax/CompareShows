@@ -48,5 +48,5 @@ _Visualized_
 | `--compare`        |       | `tuple(str, str)` | No    | Compare two shows by name (`SHOW1` and `SHOW2`)                             |
 
 # Usage #
-python3 shows_comp.py -n "Dexter"
-pyton3 shows_conp.py -n "the punisher" -t tv --progress --top-rated --top-limit 2 --save --output punisher.json                                       
+- python3 shows_comp.py -n "Dexter"
+- pyton3 shows_conp.py -n "the punisher" -t tv --progress --top-rated --top-limit 2 --save --output punisher.json                                       
