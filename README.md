@@ -4,4 +4,4 @@ Using requests to scrap information about a tv serie, movie or even to compare b
 using some well known libraries such as numpy, pandas, matplotlib
 
 ### Results 
-![image alt][https://github.com/ousax/CompareShows/blob/238474ff37e864db4cfa3128f12ed1729415ee62/f.png]
+![image alt](https://github.com/ousax/CompareShows/blob/238474ff37e864db4cfa3128f12ed1729415ee62/f.png)
